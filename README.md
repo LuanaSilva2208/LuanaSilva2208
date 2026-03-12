@@ -30,6 +30,11 @@
 
 ---
 
+### 🐍 Snake Game
+![github contribution grid snake animation](https://raw.githubusercontent.com/LuanaSilva2208/LuanaSilva2208/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🌐 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luana-vitoria-souza-silva-834025201)
 
