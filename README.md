@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Luana GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaSilva2208&show_icons=true&theme=tokyonight)
 
 ---
 
