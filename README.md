@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Luana Vitória
 
+---
+
+🔗 **Confira meu portfólio:** [luanasilva2208.github.io](https://luanasilva2208.github.io)
+
+---
+
 💻 Help Desk Analyst | Transitioning to Software Development  
 🎓 Information Technology Management – UNICID  
 🚀 Astetech Team Member since 2024  
