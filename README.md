@@ -31,8 +31,10 @@
 ---
 
 ### 🌐 Connect with me
-💼 LinkedIn: https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/luana-vitoria-souza-silva-834025201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luana-vitoria-souza-silva-834025201)
+
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/7c02ef9da8c56a3bd187179fd412f1e9/464b0f6f57404d4a-1d/s1280x1920/16ed1d5e90b8fe04dae0ff73d738320b7a05aa1a.gifv" width="400">
+  <img src="https://64.media.tumblr.com/7c02ef9da8c56a3bd187179fd412f1e9/464b0f6f57404d4a-1d/s1280x1920/16ed1d5e90b8fe04dae0ff73d738320b7a05aa1a.gifv" alt="Pixel Art Room" width="80%">
 </p>
+
