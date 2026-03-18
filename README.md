@@ -27,4 +27,3 @@
 
 ---
 
-![Snake animation](https://github.com/LuanaSilva2208/LuanaSilva2208/output/github-contribution-grid-snake.svg)
